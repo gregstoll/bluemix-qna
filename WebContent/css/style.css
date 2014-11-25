@@ -1,0 +1,8 @@
+/* style.css
+ * This file provides css styles.
+ */
+
+.answerBest { font-size: 26px; color: #000000; }
+.answerGood { font-size: 22px; color: #333333; }
+.answerOK { font-size: 18px; color: #555555; }
+.answerBad { font-size: 14px; color: #888888; }

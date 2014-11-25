@@ -1,0 +1,2 @@
+"ant" to build app
+"cf push" to deploy

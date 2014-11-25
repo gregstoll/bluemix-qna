@@ -1,0 +1,6 @@
+applications:
+- services:
+  - Question and Answer-2o
+  name: gregstoll-qna
+  path: webApp.war
+  memory: 512M
